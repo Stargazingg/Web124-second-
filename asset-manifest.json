@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Web124-second-/static/css/main.43d1a6fa.css",
+    "main.js": "/Web124-second-/static/js/main.80dc0ed3.js",
+    "index.html": "/Web124-second-/index.html",
+    "main.43d1a6fa.css.map": "/Web124-second-/static/css/main.43d1a6fa.css.map",
+    "main.80dc0ed3.js.map": "/Web124-second-/static/js/main.80dc0ed3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43d1a6fa.css",
+    "static/js/main.80dc0ed3.js"
+  ]
+}
